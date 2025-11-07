@@ -14,6 +14,6 @@
 
 ## Quote
 
-> Give credit where credit is due
+>  >> Give credit where credit is due <<
 
 - *a very smart person*
