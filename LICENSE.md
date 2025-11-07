@@ -12,6 +12,8 @@
 - ..sell them on ebay or any other platform
 - ..reupload and distribute them as your own
 
+## Quote
+
 > Give credit where credit is due
 
 - *a very smart person*
