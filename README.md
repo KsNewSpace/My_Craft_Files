@@ -1,5 +1,5 @@
 # My Craft Files
-***requires Restock/Restock+ & RestockPBR***
+***requires Restock/Restock+ & RestockPBR when it comes to parts***
 
 *by Lukas K. aka KsNewSpace*
 
