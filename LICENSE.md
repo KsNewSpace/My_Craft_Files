@@ -5,7 +5,7 @@
 ## Yes you can..
 - ..use these crafts at home
 - ..share screenshots of them on social media
-- ..use these crafts in videos
+- ..use these crafts in videos, even with ads on
 - ..use these crafts in a school presentation
 
 ## No, you can't..
