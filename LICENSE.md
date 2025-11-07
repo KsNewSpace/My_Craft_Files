@@ -1,7 +1,10 @@
-Only for non commercial use. All Rights Reserved.
+# LICENSE
+
+## Only for non commercial use. All Rights Reserved.
 
 ## Yes you can..
 - ..use these crafts at home
+- ..share screenshots of them on social media
 - ..use these crafts in videos
 - ..use these crafts in a school presentation
 
@@ -10,4 +13,5 @@ Only for non commercial use. All Rights Reserved.
 - ..reupload and distribute them as your own
 
 > Give credit where credit is due
+
 *a very smart person*
