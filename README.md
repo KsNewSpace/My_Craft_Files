@@ -6,6 +6,7 @@
 Part Dependencies:
 - Restock / Restock+
 - RestockPBR / RestockPlusPBR
+- Official Robotics DLC (Propellers and such)
 
 # KerbalEssences KraftWerke
 ## PLANES
