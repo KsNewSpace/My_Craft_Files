@@ -12,7 +12,7 @@ Part Dependencies:
 ## PLANES
 ### *AS2P-880-2R* - [Download](https://github.com/KsNewSpace/Ks_Craft_Files/releases/tag/Plane_AS2P-880-2R)
 <div align="center">
-  Variant (A), (S)mall Sized, (2 P)anther Engines, (880) max. fuel, Payload (2 R)ockets
+  Variant (A), (S)mall Sized, (2 P)anther Engines, (880) max. fuel, Payload (2 R)ockets<br />
   Action Groups: 1: Vectoring Toggle; 2: Switch Mode; 3: Flaps; 5/6: Fox 1 / Fox 2
 </div>
 
