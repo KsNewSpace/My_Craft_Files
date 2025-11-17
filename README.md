@@ -3,4 +3,4 @@
 
 *by Lukas K. aka KsNewSpace*
 
-## My Complete Mod List: [K's Stockalike Overhault](https://github.com/KsNewSpace/Ks_Stockalike_Overhau)
+## My Complete Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
