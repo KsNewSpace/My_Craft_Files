@@ -8,7 +8,7 @@ Part Dependencies:
 - RestockPBR / RestockPlusPBR
 
 # KerbalEssences KraftWerke
-## Planes
+## *PLANES*
 ### AS2P-880-2R - [Download](https://github.com/KsNewSpace/Ks_Craft_Files/releases/tag/Plane_AS2P-880-2R)
 *<div align="center">Variant (A), (S)mall Sized, (2 P)anther Engines, (880) max. fuel, Payload (2 R)ockets</div>*
 <div align="center">
