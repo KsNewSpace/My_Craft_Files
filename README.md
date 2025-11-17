@@ -5,6 +5,10 @@
 
 ## My Full Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
 
+Dependencies:
+- Restock / Restock+
+- RestockPBR / RestockPlusPBR
+
 # KerbalEsssences KraftWerke
 
 ## AS2P-880-2R - [Download](https://github.com/KsNewSpace/Ks_Craft_Files/releases/tag/Plane_AS2P-880-2R)
