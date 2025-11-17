@@ -7,7 +7,7 @@
 
 ### AS2P-880-2R
 
-![image](Planes/kekw_as2p_880_2r/thumbs.jpg)
+![image](Planes/kekw_as2p_880_2r/thumb.jpg)
 
 - A      Variant A
 - S      Small Sized (Mk1)
