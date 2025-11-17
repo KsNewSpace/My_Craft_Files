@@ -1,4 +1,4 @@
-# Ks Craft Files for KSP
+# K's Craft Files for KSP
 ***requires Restock/Restock+ & RestockPBR when it comes to parts***
 
 *by Lukas K. aka KsNewSpace*
