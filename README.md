@@ -5,7 +5,7 @@
 
 # KerbalEsssences KraftWerke
 
-## AS2P-880-2R
+## AS2P-880-2R - [Download](Planes/kekw_as2p_880_2r/kekw_as2p_880_2r.zip)
 ![image](Planes/kekw_as2p_880_2r/thumb.jpg)
 *<div align="center">Variant (A), (S)mall Sized, (2 P)anther Engines, (880) max. fuel, Payload (2 R)ockets</div>*
 
