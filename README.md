@@ -8,7 +8,7 @@ Part Dependencies:
 - RestockPBR / RestockPlusPBR
 - Official Robotics DLC (Propellers and such)
 
-# KerbalEssences KraftWerke LLC
+# KerbalEssences KraftWerke NLC
 ## PLANES
 ### *AS2P-880-2R* - [Download](https://github.com/KsNewSpace/Ks_Craft_Files/releases/tag/Plane_AS2P-880-2R)
 <div align="center">
